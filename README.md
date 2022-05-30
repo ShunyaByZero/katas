@@ -48,18 +48,16 @@ Non-profit Onboarding Service
 
 ***Features***
 
-*Capabilities*
+*Creation and Management of Community Leaders*
 - Registration of Community Leader
 - Specialty Assessment completion
-- Moderation by Administrator
+- Moderation by Administrator/Other Community Leaders
 
-2. Access to assigned Non-Profits
+*Review and feedback on goals of the assigned non-profit*
+- Moderation of community profile and goals
+- Feedback 
 
-*Capabilites*
-- List of Community Profile of assigned Non-profits
-- View Service Assessment 
-- View Non-Profit Goals
-
+*Review and feedback on goals of the assigned non-profit*
 3. Feedback to assigned Non-Profits
 
 *Capabilities*
