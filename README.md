@@ -55,26 +55,16 @@ Non-profit Onboarding Service
 
 *Review and feedback on goals of the assigned non-profit*
 - Moderation of community profile and goals
-- Feedback 
+- Feedback System like Rating,posts etc on goals
+- Scheduled Meetups (Online/Offline)
 
-*Review and feedback on goals of the assigned non-profit*
-3. Feedback to assigned Non-Profits
+*Review and feedback on non-profit service assessment*
+- Moderation of service assessment 
+- Feedback System like Rating,posts etc on assessment
+- Scheduled Meetups (Online/Offline)
 
-*Capabilities*
-- Input Improvement Areas
-- Assessment correction
-- Community Profile Moderation
-
-4. Meetups with Non-Profits
-
-*Capabilities*
-- Meeting Scheduling Capability (Online/Offline)
-- List offline meeting Areas
-
-5. Organize Community Meeting
-
-*Capabilities*
+*Organize Community Meeting*
 - Collaborate with Community Leaders
-- Meeting Scheduling Capability (Online/Offline)
+- Scheduled Meetups (Online/Offline)
 - List Offline meeting Venues  
 
