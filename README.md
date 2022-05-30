@@ -13,18 +13,19 @@
 - Registration
 - CommunityProfile Creation
 - Assessment completion
+- Moderation by Administrator
 
-
-2. Enable Intake
-
-*Capabilities*
-- Assessment completion
-- Mentor Assignment and Feedback
-
-3. List Offerings
+2. Candidate Intake
 
 *Capabilities*
+- List Offerings
 - Mentor Assignment and Feedback
+- Submit Application
+
+3. Offer Trainings
+
+*Capabilities*
 - Offering Management
+- Upload resources
 
 
