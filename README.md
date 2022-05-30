@@ -5,7 +5,26 @@
 # MVP
 
 ## Networking Hub Functionality
-- Allow non-profits to register
-- Allow non-profits create community profile to share offering
-- 
+
+### Goal
+1. Access to diversity council for Resource Sharing, Collaboration, Partnership, Meetups etc
+
+*Capabilities*
+- Registration
+- CommunityProfile Creation
+- Assessment completion
+
+
+2. Enable Intake
+
+*Capabilities*
+- Assessment completion
+- Mentor Assignment and Feedback
+
+3. List Offerings
+
+*Capabilities*
+- Mentor Assignment and Feedback
+- Offering Management
+
 
