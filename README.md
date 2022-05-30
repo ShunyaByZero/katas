@@ -35,8 +35,18 @@ Non-profit Onboarding Service
 
 ## Community Leader
 
-### Goal
-1. Access to diversity council
+### Business Goals
+  1. Help non-profits to increase visibility
+  2. Help non-profits to get intake
+  3. Help non-profits to meet their expectations/goals
+
+***Capabilities***
+  1. Creation and Management of Community Leaders
+  2. Review and feedback on goals of the assigned non-profit
+  3. Review and feedback on non-profit service assessment
+  4. Organize Community meetings
+
+***Features***
 
 *Capabilities*
 - Registration of Community Leader
