@@ -66,5 +66,4 @@ Non-profit Onboarding Service
 *Organize Community Meeting*
 - Collaborate with Community Leaders
 - Scheduled Meetups (Online/Offline)
-- List Offline meeting Venues  
 
