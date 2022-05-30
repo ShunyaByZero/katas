@@ -29,3 +29,7 @@
 - Upload resources
 
 
+Non-profit Onboarding Service
+
+- Gives non-profits the capability to onboard with Diverse Cyber Council by completing the registration, community profile creation.
+
