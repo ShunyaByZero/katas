@@ -10,7 +10,6 @@
   
 ### Feedback System like Rating,posts etc on goals
   - Community leader rates the milestones on different parameters
-  - Community leader provides creates posts to track the conversation and important discussions of feedbacks
 
 ### Scheduled Meetups (Online/Offline)
   - Community leader creates a calendar invite with a non-profit using skype/googleChat integrators for online communication
