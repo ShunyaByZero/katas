@@ -14,6 +14,5 @@
 ### Moderation by Administrator/Other Community Leaders
   - Administrator on assessing user's community leader profile assigns the community leader role
   - Administrator can remove the community leader role if required
-  - Community Leader can be rated by the non-profits or other community leaders
   - Community Leader can view other community leaders sharing similar set of specialties
   - Community Leader can meetup with other community leaders
