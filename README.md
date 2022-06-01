@@ -6,6 +6,7 @@ What is a community?
 - New Community can be requested by community leaders, non-profits
 - Administrator creates community or approves community create requests 
 - Community leader if not author of community sends a request to join the community
+- Non-profit sends request to join the community
 - Community has posts by community leaders and moderated posts by non-profits
 - Community has offerings listed by non-profits of that community
 - Community leader creates spotlights for the non-profits in the community
