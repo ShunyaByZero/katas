@@ -96,7 +96,7 @@ Non-profit Onboarding Service
 
 ## Candidate
 
-# Candidate Registration
+### Candidate Registration
  - Candidate signup himself on the platform ( Add Name / email / password )
 
 # Profile creation
