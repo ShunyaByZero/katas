@@ -1,6 +1,5 @@
 # Capability - Creation and Management of Mentors
 
-
 ## Features
 
 ### Registration of Mentors Leader
@@ -8,6 +7,7 @@
   linkedin profile, achievements, contact details and community to join
   - A Platform administrator is assigned the role of a Mentor
   - Mentor also inputs is Capacity details which includes how many Candiates he can work with.
+  - Mentor also inputs his technical skills and proficiency level in each of the skill
   - The above capacity information is used by the Matching enginee 
   
 
