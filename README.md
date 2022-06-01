@@ -118,7 +118,7 @@ Non-profit Onboarding Service
    - View assigned and other mentor details and switch if required by sending a request
    - Admin / System approval required to switch mentor
 
-# Career Plan
+### Career Plan
 - If self paced
    - Non-profit populates the career plan / assignments
    - Candidate can tracks progress on the career plan (view, edit)
@@ -130,11 +130,11 @@ Non-profit Onboarding Service
    - Both mentor and candidate can add comments against each milestone
 
    
-# Mentor- Candidate Communication
+### Mentor- Candidate Communication
    - Candidate and mentor can now initiate conversations using the communication channels (chat)
    - Candidate or mentor can add community leader or non-profit to the chat if required.
 
-# View Career Plan
+### View Career Plan
 - View assigned Non Profit service
 - View career plan
             Modules
@@ -144,7 +144,7 @@ Non-profit Onboarding Service
            Mentor Connect ( optional )
 - Comment / add notes to career plan
 
-# Exiting / Switching the program
+### Exiting / Switching the program
 - Candidate can choose to drop out of the program ( self paced or mentor-driven).
 - Candidate can switch between self paced and mentor-driven program (if in between the session, then exit and switch)
 
