@@ -92,3 +92,59 @@ Non-profit Onboarding Service
 - Success stories
 - Reviews
 
+
+
+## Candidate
+
+# Candidate Registration
+ - Candidate signup himself on the platform ( Add Name / email / password )
+
+# Profile creation
+- First name and Last name
+- Location
+- Language
+- Need/Requirement ( career oriented - user can choose from the available list )
+
+# Selection of Career path
+- Candidate to choose between Self paced or mentor-driven
+
+# Need assessment > Non Profit and or Mentor Matching
+- If self paced
+   - Auto assign Non profit to candidate 
+   - Mentor assigned as optional.
+   -
+- If mentor-driven
+   - Auto assign a dedicated mentor for the candidate
+   - View assigned and other mentor details and switch if required by sending a request
+   - Admin / System approval required to switch mentor
+
+# Career Plan
+- If self paced
+   - Non-profit populates the career plan / assignments
+   - Candidate can tracks progress on the career plan (view, edit)
+   - Both non-profit and candidate can add comments against each milestone??
+
+- If mentor-driven
+   - Mentor creates the career plan / assignments for the candidate
+   - Candidate can track progress on the career plan (view, edit)
+   - Both mentor and candidate can add comments against each milestone
+
+   
+# Mentor- Candidate Communication
+   - Candidate and mentor can now initiate conversations using the communication channels (chat)
+   - Candidate or mentor can add community leader or non-profit to the chat if required.
+
+# View Career Plan
+- View assigned Non Profit service
+- View career plan
+            Modules
+            Videos
+            Assignments
+           Tasks
+           Mentor Connect ( optional )
+- Comment / add notes to career plan
+
+# Exiting / Switching the program
+- Candidate can choose to drop out of the program ( self paced or mentor-driven).
+- Candidate can switch between self paced and mentor-driven program (if in between the session, then exit and switch)
+
