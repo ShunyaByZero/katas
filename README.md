@@ -1,5 +1,18 @@
-# katas
+# Katas
 
+What is a community? 
+- Community is a group of non-profits
+- Community can have multiple community leaders
+- New Community can be requested by community leaders, non-profits
+- Administrator creates community or approves community create requests 
+- Community leader if not author of community sends a request to join the community
+- Community has posts by community leaders and moderated posts by non-profits
+- Community has offerings listed by non-profits of that community
+- Community leader creates spotlights for the non-profits in the community
+- Community can have private posts/chats between non-profits
+- Community can have private posts/chats between community leaders
+- Community can be viewed by all candidates and career mentors
+- Candidates and Career mentors can have private posts/chats with non-profits and Community Leader
 
 
 # MVP
