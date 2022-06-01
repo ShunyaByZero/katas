@@ -3,7 +3,7 @@
 What is a community? 
 - Community is a group of non-profits
 - Community can have multiple community leaders
-- Non-profits can also be community leaders
+- Non-profits administrator can also be community leaders
 - New Community can be requested by community leaders, non-profits
 - Administrator creates community or approves community create requests 
 - Community leader if not author of community sends a request to join the community
