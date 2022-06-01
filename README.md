@@ -99,16 +99,16 @@ Non-profit Onboarding Service
 ### Candidate Registration
  - Candidate signup himself on the platform ( Add Name / email / password )
 
-# Profile creation
+### Business Goals
 - First name and Last name
 - Location
 - Language
 - Need/Requirement ( career oriented - user can choose from the available list )
 
-# Selection of Career path
+### Selection of Career path
 - Candidate to choose between Self paced or mentor-driven
 
-# Need assessment > Non Profit and or Mentor Matching
+### Need assessment > Non Profit and or Mentor Matching
 - If self paced
    - Auto assign Non profit to candidate 
    - Mentor assigned as optional.
