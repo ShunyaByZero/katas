@@ -99,7 +99,7 @@ Non-profit Onboarding Service
 ### Candidate Registration
  - Candidate signup himself on the platform ( Add Name / email / password )
 
-### Business Goals
+### Profile Creation
 - First name and Last name
 - Location
 - Language
