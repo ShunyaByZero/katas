@@ -83,3 +83,7 @@ Non-profit Onboarding Service
 - Collaborate with Community Leaders
 - Scheduled Meetups (Online/Offline)
 
+#Effectiveness of Community Leader*
+- Success stories
+- Reviews
+
