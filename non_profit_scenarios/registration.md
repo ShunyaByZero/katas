@@ -9,6 +9,7 @@
 - Contact Info
 - Service Offerings
     - Category tags
+    - Capacity
     - Capability
     - Candidate Profile
     - Responsibility
