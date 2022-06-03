@@ -10,3 +10,5 @@
   - Add other skills
 ### Complete Career Assessment
   - complete career assessment questionaire
+### Selection of Career path
+  - Candidate to choose between Self paced or mentor-driven
