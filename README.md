@@ -31,7 +31,7 @@ Ease of access and better visibility of non-offerings to establish a sustainable
 
 ## Architecture
 - [Context Map](Context%20Map.pdf)
-- [Logical Architecture](Logical:Component%20View.pdf)
+- [Logical Architecture](LogicalComponentView.pdf)
   
 
 ## Sequence Diagrams
