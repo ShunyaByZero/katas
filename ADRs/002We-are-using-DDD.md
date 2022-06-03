@@ -12,7 +12,8 @@ Accepted
 
 ## Context
 
-The architectural decisions made on this project must be recorded in a useful and comprehensible manner.
+We have decide to use Domain Driven Design to Decompose the System into multiple Bounded Context.
+The context map can be found [here](..//Context%20Map.pdf)
 
 ## Decision
 
