@@ -1,4 +1,4 @@
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md) 
 
 ---
 

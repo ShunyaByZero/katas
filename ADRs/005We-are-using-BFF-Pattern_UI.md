@@ -1,10 +1,9 @@
-[> Home](../README.md)    [> ADRs](README.md)
-
+[> Home](../README.md) 
 ---
 
 # Record architecture decisions
 
-Date: 2021-10-21
+Date: 2022-27-05
 
 ## Status
 
@@ -12,32 +11,27 @@ Accepted
 
 ## Context
 
-The architectural decisions made on this project must be recorded in a useful and comprehensible manner.
+We will be using the [Backend for FrontEnd Pattern](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html) for User Interfcae to access the back end Services
 
 ## Decision
-
-Architecture Decision Records, [as described by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions), will be used to record our architecture decisions.
+We will be using Backend for FrontEnd Pattern for accessing the Backens services from the UI.
 
 ## Consequences
 
 **Positive:**
 
-- Easy to access decisions.
-- Easy to find out why a decision was made.
-- Quick to learn how to create and use ADRs.
+- Less network calls between the UI and Domain services.
+- BFF service will be seperate from domain services ideally but here we have decided to combine.
+- The UI availability is linked to uptime of BFF service not all the domain services  
 
 **Negative:**
 
-- Need to on-board everyone on the project to understand ADRs.
+- BFF will have extra complexity of synching the data across the domain services.
 
 **Risks:**
 
 - Someone not familiar with ADRs may not know where to find them or that they exist.
 
-**Bonus Features:**
-
-- This format will be something we use in other projects to improve architecture decisions governance!
-
 ---
 
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md)    
