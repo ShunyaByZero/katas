@@ -30,7 +30,7 @@ We will be using Backend for FrontEnd Pattern for accessing the Backens services
 
 **Risks:**
 
-- Someone not familiar with ADRs may not know where to find them or that they exist.
+
 
 ---
 

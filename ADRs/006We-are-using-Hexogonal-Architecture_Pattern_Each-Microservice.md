@@ -1,10 +1,9 @@
-[> Home](../README.md)    [> ADRs](README.md)
-
+[> Home](../README.md)   
 ---
 
 # Record architecture decisions
 
-Date: 2021-10-21
+Date: 2022-27-05
 
 ## Status
 
@@ -12,31 +11,22 @@ Accepted
 
 ## Context
 
-The architectural decisions made on this project must be recorded in a useful and comprehensible manner.
+We will be Following Hexogonal Architecture pattern for developing each microservice [Hexogonal Pattern](https://medium.com/sciforce/another-story-about-microservices-hexagonal-architecture-23db93fa52a2).
 
 ## Decision
 
-Architecture Decision Records, [as described by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions), will be used to record our architecture decisions.
+We will be develping the Individual Microservices using the Hexogonal Architecture.
 
 ## Consequences
 
 **Positive:**
 
-- Easy to access decisions.
-- Easy to find out why a decision was made.
-- Quick to learn how to create and use ADRs.
+- Easy seperation of concern.
+- Core Business logic will be implemented in domain layer.
+- input and output will be fully decoupled.
+- This works well with our DDD Aproach
 
 **Negative:**
-
-- Need to on-board everyone on the project to understand ADRs.
-
-**Risks:**
-
-- Someone not familiar with ADRs may not know where to find them or that they exist.
-
-**Bonus Features:**
-
-- This format will be something we use in other projects to improve architecture decisions governance!
 
 ---
 
