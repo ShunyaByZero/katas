@@ -34,3 +34,11 @@ Ease of access and better visibility of non-offerings to establish a sustainable
 
 ## Deployment
   - [Deployment](https://github.com/ShunyaByZero/katas/blob/main/Deployment%20Diagram.pdf)
+
+
+## Team
+  - Danish Garg
+  - Karthik Kalkura
+  - Nidhi Kaushal
+  - Parth Shah
+  - Teena Jose
