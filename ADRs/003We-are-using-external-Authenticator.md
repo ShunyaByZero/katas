@@ -33,12 +33,9 @@ Instead of building our own Authentication system for users we have decided exte
 
 **Risks:**
 
-- Someone not familiar with ADRs may not know where to find them or that they exist.
+- We have crerated a dependency on the external System. Our Avalibility is now dependent on this Third party Authenticator
 
-**Bonus Features:**
-
-- This format will be something we use in other projects to improve architecture decisions governance!
 
 ---
 
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md)    
