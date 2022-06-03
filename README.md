@@ -16,7 +16,7 @@ Ease of access and better visibility of non-offerings to establish a sustainable
   - Incentivization
 
 ## Users
-  - Candidate
+  - [Candidate](https://github.com/ShunyaByZero/katas/tree/main/Candidate%20Scenarios)
   - [Mentor](https://github.com/ShunyaByZero/katas/tree/main/Mentor%20Scenarios)
   - [Non-profits](https://github.com/ShunyaByZero/katas/tree/main/Non%20Profit%20Scenarios)
   - [Non-profits as Community Leader](https://github.com/ShunyaByZero/katas/tree/main/Community%20Leader%20Scenarios)
