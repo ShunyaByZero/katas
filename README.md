@@ -1,11 +1,11 @@
 # Diversity Cyber Council Career Case Management
 
-## Requirements
+## Business Goals
 
 Centralization of non-profits for better collaboration, support and addressing service gaps.
 Ease of access and better visibility of non-offerings to establish a sustainable and diverse talent pipeline.
 
-## Bussiness Goals
+## Capabilities
   - Candidate Onboarding
   - Candidate Career Management
   - Mentor Onboarding
