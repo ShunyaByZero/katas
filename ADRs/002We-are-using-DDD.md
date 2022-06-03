@@ -31,8 +31,10 @@ We have decompised the system using the Domain Driven design. We have identified
 
 **Positive:**
 
-- Easy to access evolve  the Architecture for new requirement 
-- Clear seperation of concern of bounded context 
+- Easy to evolve  the Architecture for new requirement 
+- Clear seperation of concern for each bounded context 
+- Every Bounded Context may have one or more aggregate
+-  Aggregate may have same name but have different meaning different Bounded Context (Context is king) 
 - Seperation of responsibility based on the business capability
 - Seperate Domain services for Business Capability
 - We have combines the Back end for Front End Service with Domain Services to power the User Interface
@@ -47,8 +49,7 @@ We have decompised the system using the Domain Driven design. We have identified
 
 **Bonus Features:**
 
-- This format will be something we use in other projects to improve architecture decisions governance!
-
+- Easy to Imeplement Analytics capability because Analytics bounded context is downstream to most of the other bounded context
 ---
 
 [> Home](../README.md)    [> ADRs](README.md)
