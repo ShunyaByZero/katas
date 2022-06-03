@@ -38,6 +38,9 @@ Ease of access and better visibility of non-offerings to establish a sustainable
 ## Deployment
   - [Deployment](https://github.com/ShunyaByZero/katas/blob/main/Deployment%20Diagram.pdf)
 
+## Logical Diagram
+  - [logical Diagram](https://github.com/ShunyaByZero/katas/blob/main/Logical:Component%20View.pdf)
+
 
 ## Team
   - Danish Garg
