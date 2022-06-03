@@ -12,23 +12,24 @@ Accepted
 
 ## Context
 
-The architectural decisions made on this project must be recorded in a useful and comprehensible manner.
+We have decided to use External Authentication system such as OKTA to do the User Authentication using a Oath2.0 flow and OpenIDConnect (OIDC) Standard.
 
 ## Decision
 
-Architecture Decision Records, [as described by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions), will be used to record our architecture decisions.
+Instead of building our own Authentication system for users we have decided external Third party Authentication system such as OKTA. We have taken this decision to focus on core business domains
+
+
 
 ## Consequences
 
 **Positive:**
 
-- Easy to access decisions.
-- Easy to find out why a decision was made.
-- Quick to learn how to create and use ADRs.
+- Put more focus on the core domain.
+
 
 **Negative:**
 
-- Need to on-board everyone on the project to understand ADRs.
+- Some learning curve to udnerstand on how to register the user etc.
 
 **Risks:**
 
