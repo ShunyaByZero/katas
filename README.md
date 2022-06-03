@@ -26,6 +26,10 @@ Ease of access and better visibility of non-offerings to establish a sustainable
   - [Candidate](https://github.com/ShunyaByZero/katas/tree/main/UI%20Screens/Candidate%20Flow)
   - [Non-Profits](https://github.com/ShunyaByZero/katas/tree/main/UI%20Screens/Non%20Profit%20Flow)
 
+## Architecture
+- [Context Map](Context%20Map.pdf)
+- [Logical Architecture](Logical:Component%20View.pdf)
+  
 
 ## Sequence Diagrams
   - [Non-profits](https://github.com/ShunyaByZero/katas/tree/main/Sequence%20Diagrams/Non-profit%20flows)
@@ -35,7 +39,8 @@ Ease of access and better visibility of non-offerings to establish a sustainable
 ## Deployment
   - [Deployment](https://github.com/ShunyaByZero/katas/blob/main/Deployment%20Diagram.pdf)
 
-
+## ADR 
+-[ADR](ADRs/)
 ## Team
   - Danish Garg
   - Karthik Kalkura
