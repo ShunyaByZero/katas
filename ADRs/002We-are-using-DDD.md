@@ -1,5 +1,4 @@
-[> Home](../README.md)    [> ADRs](README.md)
-
+[> Home](../README.md) 
 ---
 
 # Record architecture decisions
@@ -52,4 +51,4 @@ We have decompised the system using the Domain Driven design. We have identified
 - Easy to Imeplement Analytics capability because Analytics bounded context is downstream to most of the other bounded context
 ---
 
-[> Home](../README.md)    [> ADRs](README.md)
+[> Home](../README.md)
