@@ -22,6 +22,9 @@ Ease of access and better visibility of non-offerings to establish a sustainable
   - [Non-profits as Community Leader](https://github.com/ShunyaByZero/katas/tree/main/Community%20Leader%20Scenarios)
   - [Administrators](https://github.com/ShunyaByZero/katas/tree/main/Administrator%20Scenarios)
 
+## Context Map
+  - [Context Map](https://github.com/ShunyaByZero/katas/blob/main/Context%20Map.pdf)
+
 ## Mockups
   - [Candidate](https://github.com/ShunyaByZero/katas/tree/main/UI%20Screens/Candidate%20Flow)
   - [Non-Profits](https://github.com/ShunyaByZero/katas/tree/main/UI%20Screens/Non%20Profit%20Flow)
@@ -39,8 +42,10 @@ Ease of access and better visibility of non-offerings to establish a sustainable
 ## Deployment
   - [Deployment](https://github.com/ShunyaByZero/katas/blob/main/Deployment%20Diagram.pdf)
 
-## ADR 
--[ADR](ADRs/)
+## Logical Diagram
+  - [logical Diagram](https://github.com/ShunyaByZero/katas/blob/main/Logical:Component%20View.pdf)
+
+
 ## Team
   - Danish Garg
   - Karthik Kalkura
