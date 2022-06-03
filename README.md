@@ -42,7 +42,8 @@ Ease of access and better visibility of non-offerings to establish a sustainable
 ## Deployment
   - [Deployment](https://github.com/ShunyaByZero/katas/blob/main/Deployment%20Diagram.pdf)
 
-
+## ADR 
+- [ADR](https://github.com/ShunyaByZero/katas/tree/main/ADRs)
 ## Team
   - Danish Garg
   - Karthik Kalkura
