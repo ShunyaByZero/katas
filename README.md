@@ -22,4 +22,14 @@ Ease of access and better visibility of non-offerings to establish a sustainable
   - [Non-profits as Community Leader](https://github.com/ShunyaByZero/katas/tree/main/Community%20Leader%20Scenarios)
   - [Administrators](https://github.com/ShunyaByZero/katas/tree/main/Administrator%20Scenarios)
 
+## Mockups
+  - [Candidate](https://github.com/ShunyaByZero/katas/tree/main/UI%20Screens/Candidate%20Flow)
+  - [Non-Profits](https://github.com/ShunyaByZero/katas/tree/main/UI%20Screens/Non%20Profit%20Flow)
+
+
+## Sequence Diagrams
+  - [Non-profits](https://github.com/ShunyaByZero/katas/tree/main/Sequence%20Diagrams/Non-profit%20flows)
+  - [Candidate](https://github.com/ShunyaByZero/katas/tree/main/Sequence%20Diagrams/Candidate%20flows)
+  - [Administrator](https://github.com/ShunyaByZero/katas/tree/main/Sequence%20Diagrams/Administrator)
+
 
