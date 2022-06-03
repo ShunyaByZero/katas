@@ -17,9 +17,9 @@ Ease of access and better visibility of non-offerings to establish a sustainable
 
 ## Users
   - Candidate
-  - Mentor
-  - Non-profits
-  - Non-profits as Community Leader
+  - [Mentor](https://github.com/ShunyaByZero/katas/tree/main/Mentor%20Scenarios)
+  - [Non-profits](https://github.com/ShunyaByZero/katas/tree/main/Non%20Profit%20Scenarios)
+  - [Non-profits as Community Leader](https://github.com/ShunyaByZero/katas/tree/main/Community%20Leader%20Scenarios)
   - Administrators
 
 ## Capabilities
