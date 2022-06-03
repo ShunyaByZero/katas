@@ -17,19 +17,29 @@ The context map can be found [here](..//Context%20Map.pdf)
 
 ## Decision
 
-Architecture Decision Records, [as described by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions), will be used to record our architecture decisions.
+We have decompised the system using the Domain Driven design. We have identified following Bounded Contex
+- Career Management
+- Candidate onBoarding
+- Mentor Onbaoding
+- Community Management
+- Non-Profit onboarding
+- Analytics
+- publication 
+
 
 ## Consequences
 
 **Positive:**
 
-- Easy to access decisions.
-- Easy to find out why a decision was made.
-- Quick to learn how to create and use ADRs.
+- Easy to access evolve  the Architecture for new requirement 
+- Clear seperation of concern of bounded context 
+- Seperation of responsibility based on the business capability
+- Seperate Domain services for Business Capability
+- We have combines the Back end for Front End Service with Domain Services to power the User Interface
 
 **Negative:**
 
-- Need to on-board everyone on the project to understand ADRs.
+- Transaction management may be difficult when the business process trigered 
 
 **Risks:**
 
