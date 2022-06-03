@@ -1,23 +1,31 @@
-# Katas
+# Diversity Cyber Council Career Case Management
 
-What is a community? 
-- Community is a group of non-profits
-- Community can have multiple community leaders
-- Non-profits administrator can also be community leaders
-- New Community can be requested by community leaders, non-profits
-- Administrator creates community or approves community create requests 
-- Community leader if not author of community sends a request to join the community
-- Non-profit sends request to join the community
-- Community has posts by community leaders and moderated posts by non-profits
-- Community has offerings listed by non-profits of that community
-- Community leader creates spotlights for the non-profits in the community
-- Community can have private posts/chats between non-profits
-- Community can have private posts/chats between community leaders
-- Community can be viewed by all candidates and career mentors
-- Candidates and Career mentors can have private posts/chats with non-profits and Community Leader
-- Community can only be deleted/approved by administrator
+## Requirements
 
+Centralization of non-profits for better collaboration, support and addressing service gaps.
+Ease of access and better visibility of non-offerings to establish a sustainable and diverse talent pipeline.
 
+## Bussiness Goals
+  - Candidate Onboarding
+  - Candidate Career Management
+  - Mentor Onboarding
+  - Non-profits Onboarding
+  - Intake
+  - Community collaboration
+  - Analytics
+  - Incentivization
+
+## Users
+  - Candidate
+  - Mentor
+  - Non-profits
+  - Non-profits as Community Leader
+  - Administrators
+
+## Capabilities
+  - Candidate Onboarding
+  - Mentor Onboarding
+  - Notification
 # MVP
 
 ## Networking Hub Functionality
