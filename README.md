@@ -32,4 +32,5 @@ Ease of access and better visibility of non-offerings to establish a sustainable
   - [Candidate](https://github.com/ShunyaByZero/katas/tree/main/Sequence%20Diagrams/Candidate%20flows)
   - [Administrator](https://github.com/ShunyaByZero/katas/tree/main/Sequence%20Diagrams/Administrator)
 
-
+## Deployment
+  - [Deployment](https://github.com/ShunyaByZero/katas/blob/main/Deployment%20Diagram.pdf)
