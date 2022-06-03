@@ -27,7 +27,7 @@ We have to managed many static content in the platform for Profile of Candidates
 
 **Negative:**
 
-- Need to on-board everyone on the project to understand ADRs.
+
 ---
 
 [> Home](../README.md)    
